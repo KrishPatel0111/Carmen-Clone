@@ -1,4 +1,4 @@
-# PeerEval
+# Carmen Clone
 
 ## Overview
 
@@ -61,7 +61,7 @@
 To set up the server on your own machine, ensure the necessary dependencies are installed. Once you’ve downloaded the repository, navigate to the project directory and run:
 
 ```
-$ cd PeerEval
+$ cd CarmenClone
 ```
 
 ```
